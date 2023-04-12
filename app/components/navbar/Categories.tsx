@@ -25,62 +25,78 @@ export const categories = [
   {
     label: 'Na Praia',
     icon: TbBeach,
+    description: 'Esta propriedade fica perto da praia!',
   },
   {
     label: 'Luxo',
     icon: IoDiamond,
+    description: 'Esta propriedade é de extremo luxo!',
   }, 
   {
     label: 'Moderna',
     icon: MdOutlineVilla,
+    description: 'Esta propriedade é moderna!',
   },
   {
     label: 'No Interior',
     icon: TbMountain,
+    description: 'Esta propriedade é no Interior!',
   },
   {
     label: 'Piscinas',
     icon: TbPool,
+    description: 'Esta propriedade possui uma bela piscina!',
   },
   {
     label: 'Ilhas',
     icon: GiIsland,
+    description: 'Esta propriedade fica em uma ilha!',
   },
   {
     label: 'Lagos',
     icon: GiBoatFishing,
+    description: 'Esta propriedade fica perto de um lago!',
   },
   {
     label: 'Esquiar',
     icon: FaSkiing,
+    description: 'Esta propriedade fica perto de atividades de esqui!',
   },
   {
     label: 'Castelos',
     icon: GiCastle,
+    description: 'Esta propriedade é um antigo castelo!',
   },
   {
     label: 'Grutas',
     icon: GiCaveEntrance,
+    description: 'Esta propriedade fica perto de uma gruta!',
   },
   {
     label: 'Acampamentos',
     icon: GiForestCamp,
+    description: 'Esta propriedade oferece atividades de acampamento!',
   },
   {
     label: 'Ártico',
     icon: BsSnow,
+    description: 'Esta propriedade está no ártico!',
   },
   {
     label: 'Deserto',
     icon: GiCactus,
+    description: 'Esta propriedade está no deserto!',
   },
   {
     label: 'Fazendas',
     icon: GiBarn,
+    description: 'Esta propriedade é um grande Hotel Fazenda!',
   },
   {
     label: 'Celeiros',
     icon: GiWindmill,
+    description: 'Esta propriedade está em um celeiro!',
+
   }
 ]
 
