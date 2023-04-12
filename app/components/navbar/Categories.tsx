@@ -95,7 +95,7 @@ export const categories = [
   {
     label: 'Celeiros',
     icon: GiWindmill,
-    description: 'Esta propriedade está em um celeiro!',
+    description: 'Esta propriedade é um celeiro!',
 
   }
 ]
