@@ -75,12 +75,12 @@ const ListingClient: React.FC<ListingClientProps> = ({
         listingId: listing?.id
       })
       .then(() => {
-        toast.success('Listagem reservada!');
+        toast.success('Listing reserved!');
         setDateRange(initialDateRange);
         router.push('/trips');
       })
       .catch(() => {
-        toast.error('Ocorreu algum erro.');
+        toast.error('Something went wrong.');
       })
       .finally(() => {
         setIsLoading(false);
