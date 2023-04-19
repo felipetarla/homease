@@ -4,6 +4,10 @@
 This is a repository for a Full Stack Homease Booking with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
 
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/65380454/233119474-3e8f1e26-ec51-441a-9d1e-252b0ff89172.jpg" width="700px" />
+</div>
+
 Features:
 
 - Tailwind design
